@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.grupor5.com/blog/movilidad/revision-tecnico-mecanica"
+  },
+  "headline": "Revisión Tecnomecánica en Colombia",
+  "description": "La tecnomecánica es un documento obligatorio para poder circular con un vehículo en Colombia. Conoce qué revisan, el precio y mucho más.",
+  "image": [
+    "https://www.grupor5.com/hubfs/tecnomecanica-1x1.jpg",
+    "https://www.grupor5.com/hubfs/tecnomecanica-4x3.jpg",
+    "https://www.grupor5.com/hubfs/tecnomecanica-16x9.jpg"
+  ],  
+  "author": {
+    "@type": "Person",
+    "name": "Paola Salamanca",
+    "url": "https://www.grupor5.com/blog/author/paola-salamanca"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "R5",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.grupor5.com/hubfs/Logo_r5_v2.svg"
+    }
+  },
+  "datePublished": "2019-09-11T19:38:48+00:00",
+  "dateModified": "2024-08-22T16:00:18+00:00"
+}
+</script>
